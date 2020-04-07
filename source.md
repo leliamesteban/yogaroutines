@@ -1,6 +1,10 @@
+---
+subtitles: auto
+---
+
 Forward fold
 
-![](forwardfold.jpg)
+![](forwardFold.jpg)
 
 ---
 
@@ -8,24 +12,31 @@ Twisted forward fold, one foot behind the other
 
 (pause: 5)
 
-![](twistedforwardfold.jpg)
-
-
----
-
-Forward fold, reach halfway up
-
-(pause: 5)
-
-![](halfwayforwardfold.jpg)
+![](crossedFootForwardFold.jpg)
 
 ---
 
-Forward lunge twist
+Forward fold, halfway lift
 
 (pause: 5)
 
-![](forwardlungetwist.jpg)
+![](halfwayForwardFold.jpg)
+
+---
+
+Twisted forward fold
+
+(pause: 5)
+
+![](twistedForwardFold.jpg)
+
+---
+
+Dolphin pose
+
+(pause: 5)
+
+![](dolphin.jpg)
 
 ---
 
